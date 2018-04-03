@@ -1,0 +1,295 @@
+/*  
+Skin Name: Orange
+Version: 1.0
+Description: Skin for Event
+*/
+
+body {
+	color: #333;
+	background-color: #c44b0c; 
+}
+a {
+	color: #c44b0c;
+}
+
+/* form button */
+input[type=reset], input[type=submit] {
+	background-color: #c44b0c;
+	color: #fff;
+}
+/* form input:hover */
+input[type=reset]:hover, input[type=submit]:hover, button:hover {
+	background-color: #824121;
+	color: #fff;
+}
+
+/************************************************************************************
+STRUCTURE
+*************************************************************************************/
+#layout {
+	border-color:  rgba(0,0,0,.7);
+	background-color: #824121;
+}
+
+/************************************************************************************
+HEADER
+*************************************************************************************/
+.mobile_menu_active #menu-icon-close,
+#headerwrap {
+	background-color: #c44b0c; 
+	color: rgba(255,255,255,.8);
+}
+.mobile_menu_active #menu-icon,
+.mobile_menu_active #menu-icon-close:after,
+#headerwrap a { 
+	color: #fff;
+}
+#headerwrap #searchform #s:focus,
+#headerwrap #searchform #s:hover,
+#headerwrap #searchform .icon-search:hover + #s {
+	color: #c44b0c;
+	background-color: #fff;
+	border-color: #824121;
+}
+#headerwrap #searchform .icon-search:before {
+	color: #fff;
+}
+#headerwrap #searchform:hover .icon-search:before {
+	color: #c44b0c;
+}
+#site-logo,  #site-logo a {
+	color: #fff;
+}
+
+/************************************************************************************
+MAIN NAVIGATION
+*************************************************************************************/
+/* main level link */
+#main-nav a {
+	color: rgba(255,255,255,.7)
+}
+/* main level link :hover */
+#main-nav a:hover {
+	color: #fff;
+	box-shadow: inset 0 5px 0 0 #fff;
+}
+/* current link */
+#main-nav .current_page_item a, 
+#main-nav .current-menu-item a {
+	border-color: #ccc;
+	color: #fff;
+}
+/* current link :hover */
+#main-nav .current_page_item a:hover, #main-nav .current-menu-item a:hover {
+	color: #fff;
+}
+/* current link :hover */
+#main-nav .current_page_item a:hover, #main-nav .current-menu-item a:hover {
+	color: #fff;
+}
+/* sub-levels link */
+#main-nav ul a, 
+#main-nav .current_page_item ul a, 
+#main-nav ul .current_page_item a, 
+#main-nav .current-menu-item ul a, 
+#main-nav ul .current-menu-item a {
+	color: #fff;
+}
+/* sub-levels link :hover */
+#main-nav ul a:hover, 
+#main-nav .current_page_item ul a:hover, 
+#main-nav ul .current_page_item a:hover, 
+#main-nav .current-menu-item ul a:hover, 
+#main-nav ul .current-menu-item a:hover {
+	background-color: #c44b0c;
+	color: #fff;
+}
+/* dropdown ul */
+#main-nav ul {
+	background-color: rgba(0,0,0,.9);
+}
+/************************************************************************************
+PAGE NAVIGATION
+*************************************************************************************/
+.pagenav a {
+	color: #333;
+}
+.pagenav a:hover, .pagenav .current {
+	color: #824121;
+}
+
+/************************************************************************************
+POST
+*************************************************************************************/
+.post-title {
+	color: #333;
+}
+.post-category a, .post-tag a {
+	color: #c44b0c;
+}
+.post-title a:hover {
+	color: #c44b0c;
+}
+.post-category a:hover, .post-tag a:hover, .post-nav a:hover span:before {
+	color: #824121;
+}
+.post-nav span:before {
+	color: rgba(0,0,0,.4);
+}
+
+/*
+POST NAVS
+================================================ */
+.post-nav a, .post-nav .arrow {
+	color: #333;
+}
+.post-nav .prev .arrow:before,.post-nav .next .arrow:before {
+	color: rgba(0,0,0,0.4);
+}
+.post-nav a:hover, .post-nav a:hover span:before {
+	color: #824121 !important;
+}
+
+/*
+SLIDER POST
+================================================ */
+.loops-wrapper.slider .post-stats a i:hover:before,
+.loops-wrapper.slider .post-stats a i:hover {
+	color: #c44b0c;
+}
+
+/*
+POST STATS
+================================================ */
+.post-stats a i:hover:before,
+.post-stats a i:hover {
+	color: #824121;
+}
+
+/*
+POST SHARE
+================================================ */
+.post-share {
+	color: #333;
+}
+/* common social icons config */
+.facebook-share .share span:after,
+.pinterest-share .share span:after,
+.googleplus-share .share span:after,
+.twitter-share .share span:after {
+    color: #333;
+}
+.post-share .box:hover span:after {
+	color: #824121;
+}
+
+/************************************************************************************
+GALLERY POST TYPE
+*************************************************************************************/
+.gallery-wrapper .item {
+    background-color: #fff;
+}
+
+/************************************************************************************
+EVENT POST TYPE
+*************************************************************************************/
+.single-event .event-post .event-single-wrap {
+	background-color: #c44b0c;
+}
+
+/* buy tickets button */
+.event-post a.button.buy {
+	background-color: rgba(0,0,0,.6);
+	color: #fff;
+}
+.event-post a.button.buy:hover {
+	background-color: rgba(0,0,0,.8);
+	color: #fff;
+}
+
+/************************************************************************************
+AUTHOR BOX
+*************************************************************************************/
+.author-box {
+	border-top: 5px solid #fff;
+	background-color: rgba(32, 39, 47, 0.1);
+}
+
+/************************************************************************************
+POST NAVIGATION
+*************************************************************************************/
+.post-nav span span.post-nav a:hover {
+	text-decoration: none;
+	color: #fff;
+}
+.post-nav a:hover span:before {
+	color: #fff;
+}
+
+/************************************************************************************
+COMMENTS
+*************************************************************************************/
+
+/* comment title */
+.comment-title, #reply-title {
+	border-color: #c44b0c;
+	color: #333;
+}
+.commentlist .reply a:hover {
+    background-color: #fff;
+}
+#respond #cancel-comment-reply-link:hover {
+	background-color: #fff;
+}
+.commentlist .reply a {
+	background-color: #c44b0c;
+}
+.commentlist .reply a:hover {
+	background-color: #824121;
+}
+
+/************************************************************************************
+SIDEBAR
+*************************************************************************************/
+#sidebar {
+	color: rgba(255,255,255,.8);
+}
+#sidebar a {
+	color: #fff;
+}
+.widget .htab-link.current {
+	border-color: #fff;
+}
+.widget .htab-link.current {
+	color: #fff !important;
+}
+.widget .post-meta {
+	border-color: rgba(255,255,255,0.3);
+}
+.widget .post-share:before {
+	background-color: rgba(255,255,255,0.3);
+}
+
+/************************************************************************************
+FOOTER
+*************************************************************************************/
+#footerwrap {
+	background-color: #c44b0c;
+	color: rgba(255,255,255,.8);
+}
+#footerwrap a {
+	color: #fff;
+}
+
+/************************************************************************************
+BUILDER
+*************************************************************************************/
+/* module title */
+.themify_builder_content .module-title {
+	border-top: 5px #fff solid;
+}
+.carousel-pager a:hover,
+.carousel-pager a.selected {
+	background-color: #fff;
+	color: #c44b0c;
+}

@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'museo';
+				font-style: normal;
+				src: url('/wp-content/uploads/useanyfont/171214093921Museo.eot');
+				src: local('museo'), url('/wp-content/uploads/useanyfont/171214093921Museo.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/171214093921Museo.woff') format('woff');
+			}
+            
+            .et_gf_museo{background:none !important;font-family:museo;text-indent:0 !important;font-size:25px;}
+            
+		

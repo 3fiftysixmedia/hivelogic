@@ -1,0 +1,315 @@
+/*  
+Skin Name: White
+Version: 1.0
+Description: Skin for Event
+*/
+
+body {
+	color: #000;
+	background-color: #fff; 
+}
+a {
+	color: #000;
+}
+
+/* form button */
+input[type=reset], input[type=submit] {
+	background-color: #eee;
+	color: #000;
+}
+/* form input:hover */
+input[type=reset]:hover, input[type=submit]:hover, button:hover {
+	background-color: #000;
+	color: #fff;
+}
+
+/************************************************************************************
+STRUCTURE
+*************************************************************************************/
+#layout {
+	border-color:  #000;
+	background-color: #f3f3f3;
+}
+#nav-bar {
+	background-color: #f3f3f3;
+}
+
+/************************************************************************************
+HEADER
+*************************************************************************************/
+.mobile_menu_active #menu-icon-close,
+#headerwrap {
+	background-color: #fff; 
+	color: #000;
+}
+.mobile_menu_active #menu-icon,
+.mobile_menu_active #menu-icon-close:after,
+#headerwrap a { 
+	color: #000;
+}
+#headerwrap #searchform #s:focus,
+#headerwrap #searchform #s:hover,
+#headerwrap #searchform .icon-search:hover + #s {
+	color: #000;
+	background-color: #fff;
+	border-color: #000;
+}
+#headerwrap #searchform .icon-search:before {
+	color: #000;
+}
+#headerwrap #searchform:hover .icon-search:before {
+	color: #000;
+}
+#site-logo,  #site-logo a {
+	color: #000;
+}
+
+/************************************************************************************
+MAIN NAVIGATION
+*************************************************************************************/
+/* main level link */
+#main-nav a {
+	color: #000;
+}
+/* main level link :hover */
+#main-nav a:hover {
+	color: #000;
+	box-shadow: inset 0 5px 0 0 #000;
+}
+/* current link */
+#main-nav .current_page_item a, 
+#main-nav .current-menu-item a {
+	border-color: #ccc;
+	color: #000;
+}
+/* current link :hover */
+#main-nav .current_page_item a:hover, #main-nav .current-menu-item a:hover {
+	color: #000;
+}
+/* current link :hover */
+#main-nav .current_page_item a:hover, #main-nav .current-menu-item a:hover {
+	color: #000;
+}
+/* sub-levels link */
+#main-nav ul a, 
+#main-nav .current_page_item ul a, 
+#main-nav ul .current_page_item a, 
+#main-nav .current-menu-item ul a, 
+#main-nav ul .current-menu-item a {
+	color: #fff;
+}
+/* sub-levels link :hover */
+#main-nav ul a:hover, 
+#main-nav .current_page_item ul a:hover, 
+#main-nav ul .current_page_item a:hover, 
+#main-nav .current-menu-item ul a:hover, 
+#main-nav ul .current-menu-item a:hover {
+	background-color: #fff;
+	color: #000;
+}
+/* dropdown ul */
+#main-nav ul {
+	background-color: rgba(0,0,0,.9);
+}
+
+#headerwrap #menu-icon {
+	color: #000;
+}
+.social-widget ul li a:hover i:before,
+.social-widget div.rss a:hover:before {
+	color: #333;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+
+/************************************************************************************
+PAGE NAVIGATION
+*************************************************************************************/
+.pagenav a {
+	color: #333;
+}
+.pagenav a:hover, .pagenav .current {
+	color: #000;
+}
+
+/************************************************************************************
+POST
+*************************************************************************************/
+.post-title {
+	color: #000;
+}
+.post-category a, .post-tag a {
+	color: #000;
+}
+.post-title a:hover {
+	color: #333;
+}
+.post-category a:hover, .post-tag a:hover, .post-nav a:hover span:before {
+	color: #333;
+}
+
+/*
+POST NAVS
+================================================ */
+.post-nav a, .post-nav .arrow {
+	color: #333;
+}
+.post-nav .prev .arrow:before,.post-nav .next .arrow:before {
+	color: #333;
+}
+.post-nav a:hover, .post-nav a:hover span:before {
+	color: #000 !important;
+}
+.post-nav span:before {
+	color: #333;
+}
+
+/*
+SLIDER POST
+================================================ */
+.loops-wrapper.slider .post-stats a i:hover:before,
+.loops-wrapper.slider .post-stats a i:hover {
+	color: #000;
+}
+
+/*
+POST STATS
+================================================ */
+.post-stats a i:hover:before,
+.post-stats a i:hover {
+	color: #333;
+}
+
+/*
+POST SHARE
+================================================ */
+.post-share {
+	color: #333;
+}
+/* common social icons config */
+.facebook-share .share span:after,
+.pinterest-share .share span:after,
+.googleplus-share .share span:after,
+.twitter-share .share span:after {
+    color: #000;
+}
+.post-share .box:hover span:after {
+	color: #000;
+}
+
+/************************************************************************************
+GALLERY POST TYPE
+*************************************************************************************/
+.gallery-wrapper .item {
+    background-color: #fff;
+}
+
+/************************************************************************************
+EVENT POST TYPE
+*************************************************************************************/
+.single-event .event-post .event-single-wrap {
+	background-color: #fff;
+	color: #000;
+}
+
+/* buy tickets button */
+.event-post a.button.buy {
+	background-color: rgba(0,0,0,.6);
+	color: #fff;
+}
+.event-post a.button.buy:hover {
+	background-color: rgba(0,0,0,.8);
+	color: #fff;
+}
+
+/************************************************************************************
+AUTHOR BOX
+*************************************************************************************/
+.author-box {
+	border-top: 5px solid #F2F2EB;
+	background-color: rgba(243, 243, 243, 0.9);
+	color: #000;
+}
+
+/************************************************************************************
+POST NAVIGATION
+*************************************************************************************/
+.post-nav span span.post-nav a:hover {
+	text-decoration: none;
+	color: #000;
+}
+.post-nav a:hover span:before {
+	color: #000;
+}
+
+/************************************************************************************
+COMMENTS
+*************************************************************************************/
+
+/* comment title */
+.comment-title, #reply-title {
+	border-color: #000;
+	color: #000;
+}
+.commentlist .reply a:hover {
+    background-color: #fff;
+}
+#respond #cancel-comment-reply-link:hover {
+	background-color: #fff;
+}
+.commentlist .reply a {
+	background-color: #000;
+}
+.commentlist .reply a:hover {
+	background-color: #333;
+}
+
+/************************************************************************************
+SIDEBAR
+*************************************************************************************/
+#sidebar {
+	color: #000;
+}
+#sidebar a {
+	color: #000;
+}
+.widget .htab-link.current {
+	border-color: #000;
+}
+.widget .htab-link.current {
+	color: #000 !important;
+}
+.widget .post-meta {
+	border-color: #333;
+}
+.widget .post-share:before {
+	background-color: #333;
+}
+.widget li {
+	border-top: solid 1px rgba(0,0,0,.2);
+}
+
+/************************************************************************************
+FOOTER
+*************************************************************************************/
+#footerwrap {
+	background-color: #fff;
+	color: #000;
+}
+#footerwrap a {
+	color: #000;
+}
+
+/************************************************************************************
+BUILDER
+*************************************************************************************/
+/* module title */
+.themify_builder_content .module-title {
+	border-top: 5px #fff solid;
+}
+.carousel-pager a:hover,
+.carousel-pager a.selected {
+	background-color: #fff;
+	color: #000;
+}

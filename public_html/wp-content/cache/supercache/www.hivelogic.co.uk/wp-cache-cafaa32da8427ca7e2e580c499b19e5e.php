@@ -1,0 +1,270 @@
+<?php die(); ?><!DOCTYPE html>
+<html lang="en-GB" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.hivelogic.co.uk/xmlrpc.php">
+<title>Home - Hive Logic</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v6.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.hivelogic.co.uk/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - Hive Logic" />
+<meta property="og:description" content="RISK:MANAGED Winning in a digital world requires digital transformation  and building a resilient business.   Security as a service  Why HIVELOGIC? At HIVELOGIC our aim is to help you make the best decisions through a deep understanding of the risks in both physical and digital environments – the cyber security threat! HIVELOGIC will embed ‘digital transformation’ &hellip;" />
+<meta property="og:url" content="http://www.hivelogic.co.uk/" />
+<meta property="og:site_name" content="Hive Logic" />
+<meta property="og:image" content="http://www.hivelogic.co.uk/wp-content/uploads/2018/02/123-300x96.png" />
+<meta property="og:image" content="http://www.aathan.eu/wp-content/uploads/2017/12/orange_arrow3-300x225.png" />
+<meta property="og:image" content="http://www.aathan.eu/wp-content/uploads/2017/12/circle-1.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="RISK:MANAGED Winning in a digital world requires digital transformation  and building a resilient business.   Security as a service  Why HIVELOGIC? At HIVELOGIC our aim is to help you make the best decisions through a deep understanding of the risks in both physical and digital environments – the cyber security threat! HIVELOGIC will embed ‘digital transformation’ [&hellip;]" />
+<meta name="twitter:title" content="Home - Hive Logic" />
+<meta name="twitter:image" content="http://www.hivelogic.co.uk/wp-content/uploads/2018/02/123-300x96.png" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.hivelogic.co.uk\/","name":"Hive Logic","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.hivelogic.co.uk\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/www.hivelogic.co.uk\/","sameAs":[],"@id":"#organization","name":"Hivelogic","logo":"http:\/\/www.hivelogic.co.uk\/wp-content\/uploads\/2017\/12\/Hive-logic-logo_ORIGINAL_8.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Hive Logic &raquo; Feed" href="http://www.hivelogic.co.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Hive Logic &raquo; Comments Feed" href="http://www.hivelogic.co.uk/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.hivelogic.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='formidable-css'  href='http://www.hivelogic.co.uk/wp-content/uploads/formidable/css/formidablepro.css?ver=12201130' type='text/css' media='all' />
+<link rel='stylesheet' id='uaf_client_css-css'  href='http://www.hivelogic.co.uk/wp-content/uploads/useanyfont/uaf.css?ver=1513253542' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-bootstrap-starter-bootstrap-css-css'  href='http://www.hivelogic.co.uk/wp-content/themes/Hivelogic/inc/assets/css/bootstrap.min.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-bootstrap-starter-font-awesome-css'  href='http://www.hivelogic.co.uk/wp-content/themes/Hivelogic/inc/assets/css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-bootstrap-starter-style-css'  href='http://www.hivelogic.co.uk/wp-content/themes/Hivelogic/style.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='http://www.hivelogic.co.uk/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1.8.11' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.hivelogic.co.uk/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='http://www.hivelogic.co.uk/wp-content/plugins/elementor/assets/css/animations.min.css?ver=1.8.11' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='http://www.hivelogic.co.uk/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=1.8.11' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='http://www.hivelogic.co.uk/wp-content/uploads/elementor/css/global.css?ver=1513254608' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-16-css'  href='http://www.hivelogic.co.uk/wp-content/uploads/elementor/css/post-16.css?ver=1518513185' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.hivelogic.co.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.hivelogic.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.hivelogic.co.uk/wp-content/themes/Hivelogic/inc/assets/js/html5.js?ver=3.7.0'></script>
+<![endif]-->
+<script type='text/javascript' src='http://www.hivelogic.co.uk/wp-content/themes/Hivelogic/inc/assets/js/popper.min.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://www.hivelogic.co.uk/wp-content/themes/Hivelogic/inc/assets/js/bootstrap.min.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://www.hivelogic.co.uk/wp-content/themes/Hivelogic/inc/assets/js/theme-script.js?ver=4.9.4'></script>
+<link rel='https://api.w.org/' href='http://www.hivelogic.co.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.hivelogic.co.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.hivelogic.co.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.4" />
+<link rel='shortlink' href='http://www.hivelogic.co.uk/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.hivelogic.co.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.hivelogic.co.uk%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.hivelogic.co.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.hivelogic.co.uk%2F&#038;format=xml" />
+<meta name="google-site-verification" content="oMY1cHWGTlUJEwcC7st_NKljTpdjMlKQFz-0oe2tknU" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-54503963-18"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-54503963-18');
+</script>    <style type="text/css">
+        #page-sub-header { background: #fff; }
+    </style>
+    		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+			<style type="text/css">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+			<style type="text/css" id="wp-custom-css">
+			body .transparent-two-columns input.wpcf7-form-control.wpcf7-text, body .transparent-two-columns select.wpcf7-form-control.wpcf7-select, body .transparent-two-columns textarea.wpcf7-form-control.wpcf7-textarea{
+	border: 1px #dddddd solid;
+	
+}
+input.wpcf7-form-control.wpcf7-submit.btn.btn-primary{
+	background-color:#c3642c!important;
+	color:#ffffff!important;
+	font-size:20px!important;
+	font-weight:900!important;
+}
+#masthead .navbar-nav > li > a:hover{
+	color:white;
+}
+.wp-caption{
+	background-color:white;
+	border:none;
+}		</style>
+	<script>
+       $(document).ready(function(){
+    $('a').click(function(){
+        $(this).css('color', 'white');
+        $(this).toggleClass('active');
+    });
+  });
+</script>
+</head>
+
+<body class="home page-template page-template-page-temlates page-template-fullwidth page-template-page-temlatesfullwidth-php page page-id-16 elementor-default elementor-page elementor-page-16">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+    	<header id="masthead" class="site-header navbar-static-top" role="banner">
+        <div class="container">
+            <nav class="navbar navbar-expand-xl navbar-dark p-0">
+                <div class="navbar-brand">
+                                            <a class="site-title" href="http://www.hivelogic.co.uk/">Hive Logic</a>
+                    
+                </div>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse justify-content-center"><ul id="menu-main-menu" class="navbar-nav font"><li id="menu-item-22" class="nav-item menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-16 current_page_item menu-item-22 active"><a title="Home" href="http://www.hivelogic.co.uk/" class="nav-link">Home</a></li>
+<li id="menu-item-21" class="nav-item menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a title="About Us" href="http://www.hivelogic.co.uk/about-us/" class="nav-link">About Us</a></li>
+<li id="menu-item-20" class="nav-item menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a title="Services" href="http://www.hivelogic.co.uk/services/" class="nav-link">Services</a></li>
+<li id="menu-item-19" class="nav-item menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a title="Eco-System" href="http://www.hivelogic.co.uk/ecosystem/" class="nav-link">Eco-System</a></li>
+<li id="menu-item-18" class="nav-item menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a title="CONTACT US" href="http://www.hivelogic.co.uk/contact-us/" class="nav-link">CONTACT US</a></li>
+</ul></div>
+            </nav>
+        </div>
+	</header><!-- #masthead -->
+    	<div id="content" class="site-content">
+		<div class="container">
+			<div class="row">
+                
+	<section id="primary" class="content-area col-sm-12">
+		<main id="main" class="site-main" role="main">
+
+			
+<article id="post-16" class="post-16 page type-page status-publish hentry">
+	    <header class="entry-header">
+		<h1 class="entry-title">Home</h1>	</header><!-- .entry-header -->
+    
+	<div class="entry-content">
+				<div class="elementor elementor-16">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section data-id="2cd7bfe6" class="elementor-element elementor-element-2cd7bfe6 elementor-section-stretched elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="5d26ef97" class="elementor-element elementor-element-5d26ef97 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="6720e9b" class="elementor-element elementor-element-6720e9b elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"></div>
+				</div>
+				</div>
+				<div data-id="5dd5a4ca" class="elementor-element elementor-element-5dd5a4ca elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><!--themify_builder_static--></p><p><img class="aligncenter wp-image-575" src="http://www.hivelogic.co.uk/wp-content/uploads/2018/02/123-300x96.png" alt="" width="708" height="226" srcset="http://www.hivelogic.co.uk/wp-content/uploads/2018/02/123-300x96.png 300w, http://www.hivelogic.co.uk/wp-content/uploads/2018/02/123-768x245.png 768w, http://www.hivelogic.co.uk/wp-content/uploads/2018/02/123-1024x326.png 1024w" sizes="(max-width: 708px) 100vw, 708px" /></p><h3>RISK:MANAGED</h3><div><div class="page" title="Page 1"><div class="section"><div class="layoutArea"><div class="column"><p>Winning in a digital world requires digital transformation</p><p> and building a resilient business.</p></div></div></div></div><p><img class="wp-image-257 aligncenter" src="http://www.aathan.eu/wp-content/uploads/2017/12/orange_arrow3-300x225.png" alt="" width="142" height="105" /></p></div><p><!--/themify_builder_static--></p><p> </p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="32c329f" class="elementor-element elementor-element-32c329f elementor-section-stretched elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-top elementor-section-content-bottom elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wider">
+				<div class="elementor-row">
+				<div data-id="9cb5590" class="elementor-element elementor-element-9cb5590 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="8e217e7" class="elementor-element elementor-element-8e217e7 elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Security as a service </p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="88ea9fb" class="elementor-element elementor-element-88ea9fb elementor-section-stretched elementor-section-boxed elementor-section-height-min-height elementor-section-height-default elementor-section-items-stretch elementor-section-content-middle elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wider">
+				<div class="elementor-row">
+				<div data-id="9154b82" class="elementor-element elementor-element-9154b82 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="ce2909e" class="elementor-element elementor-element-ce2909e elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"></div>
+				</div>
+				</div>
+				<div data-id="c835b1d" class="elementor-element elementor-element-c835b1d elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><!--themify_builder_static--></p><p><img class="alignnone wp-image-81" src="http://www.aathan.eu/wp-content/uploads/2017/12/circle-1.png" alt="" width="37" height="32" /></p><p style="text-align: center;">Why HIVE<b>LOGIC</b>?</p><p><!--/themify_builder_static--></p></div>
+				</div>
+				</div>
+				<div data-id="48c4150" class="elementor-element elementor-element-48c4150 elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><div class="page" title="Page 1"><div class="section"><div class="section"><div class="section"><div class="layoutArea"><div class="column"><div class="page" title="Page 1"><div class="section"><div class="section"><div class="section"><div class="layoutArea"><div class="column"><p>At HIVE<b>LOGIC</b> our aim is to help you make the best decisions through a deep understanding of the risks in both physical and digital environments – the cyber security threat!</p></div></div></div></div><div class="section"><div class="section"><div class="layoutArea"><div class="column"><p>HIVE<b>LOGIC </b>will embed ‘digital transformation’ at the heart of your business strategy without ‘denial of services’ created by an inappropriate approach to risk and an ICT-led information security policy.</p></div></div></div></div><div class="section"><div class="section"><div class="layoutArea"><div class="column"><p>A forward-thinking business proposition that helps reduce costs by creating an effective single offering across your entire ICT, security, FM and engineering infrastructure.</p></div></div></div></div></div></div></div></div></div></div></div></div></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+			</div><!-- .entry-content -->
+
+	</article><!-- #post-## -->
+
+		</main><!-- #main -->
+	</section><!-- #primary -->
+
+			</div><!-- .row -->
+		</div><!-- .container -->
+	</div><!-- #content -->
+    	<footer id="colophon" class="site-footer vignette" role="contentinfo">
+		<div class="container-fluid p-3 p-md-5">
+            <div class="site-info">
+				&copy; 2018 <a href="http://www.hivelogic.co.uk">Hive Logic Ltd, A company registered in England and Wales, no. 10822698.  </a>				<br>
+                <p>Registered office address: 2 High Meadow, Bawtry, Doncaster, England, DN10 6LT | designed by 3fiftysix media</p>
+            </div><!-- close .site-info -->
+		</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://www.hivelogic.co.uk/wp-content/themes/Hivelogic/inc/assets/js/skip-link-focus-fix.js?ver=20151215'></script>
+<script type='text/javascript' src='http://www.hivelogic.co.uk/wp-includes/js/wp-embed.min.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://www.hivelogic.co.uk/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.hivelogic.co.uk/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=3.2.5'></script>
+<script type='text/javascript' src='http://www.hivelogic.co.uk/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='http://www.hivelogic.co.uk/wp-content/plugins/elementor/assets/lib/swiper/swiper.jquery.min.js?ver=3.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var elementorFrontendConfig = {"isEditMode":"","settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"is_rtl":"","urls":{"assets":"http:\/\/www.hivelogic.co.uk\/wp-content\/plugins\/elementor\/assets\/"},"post":{"id":16,"title":"Home","excerpt":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.hivelogic.co.uk/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=1.8.11'></script>
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.930 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2018-04-02 17:47:20 -->
